@@ -1,2 +1,1 @@
-# ecommerce
-E-commerce back end project
+# E-commerce Back End Starter Code
