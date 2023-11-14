@@ -6,7 +6,6 @@ E-Commerce Back End Project
 
 Back end for an e-commerce website that uses the latest technologies for a manager at an internet retail company.
 
-
 ## Acceptance Criteria
 
 GIVEN a functional Express.js API
