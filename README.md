@@ -36,7 +36,7 @@ https://github.com/DariaPressley/ecommerce
 
 ## Video Link
 
-
+https://drive.google.com/file/d/1yZAoC7lKRWY8LZnOAhPRyWpizuOd35vW/view
 
 ## Credits
 
@@ -48,4 +48,4 @@ Please refer to the LICENSE in the repo.
 
 ## Video
 
-[<img src="./Develop/images/What_is_SQL_Database.png" width="50%">](linkhere "Demo Video")
+[<img src="./Develop/images/What_is_SQL_Database.png" width="50%">](https://drive.google.com/file/d/1yZAoC7lKRWY8LZnOAhPRyWpizuOd35vW/view "Demo Video")
